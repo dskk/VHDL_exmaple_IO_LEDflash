@@ -1,0 +1,5 @@
+|Vhdl1
+sw1 => led.DATAIN
+led <= sw1.DB_MAX_OUTPUT_PORT_TYPE
+
+
